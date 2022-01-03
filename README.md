@@ -2,9 +2,7 @@
 
 ## About Me
 
-I’m a data scientist with a background in psychology who is currently job searching. 
-
-I love that data science provides endless opportunities to make predictions about people, such as what books and movies they may like, what clothes they may buy, and what their health outcomes may be. I'm excited to work with a team on projects that have a direct and immediate impact.
+I love that data provides endless opportunities to make predictions about people, such as what books and movies they may like, what clothes they may buy, and what their health outcomes may be. I'm excited to work with a team on projects that have a direct and immediate impact.
 
 I realized data science would be the ideal fit for my skills and interest while completing my MA in clinical psychology. I was most enthusiastic when I was coding, analyzing data, or generating research questions. I also enjoyed my neuropsychological assessment cases, which involved a process similar to that of data science. I gathered and synthesized information from multiple sources (e.g. interviews, behavioral and cognitive tests) to diagnose patients’ difficulties and then presenting the findings, rationale, and recommendations to them in a digestible way.
 
