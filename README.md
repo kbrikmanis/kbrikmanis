@@ -10,6 +10,7 @@ To expand my data analytic skills and learn more about their applications in bus
 
 ## My skills include:
 - Python (pandas, numpy, jupyter, matplotlib, scikit-learn)
+- R
 - SQL
 - Machine Learning (supervised & unsupervised learning)
 - NLP
